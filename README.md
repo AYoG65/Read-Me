@@ -1,38 +1,69 @@
 # Hey,
 
-I'm a Senior IT Operations Engineer based in Los Angeles with 10+ years of experience supporting and automating enterprise infrastructure across cloud and on-prem environments.
+I come from the side of IT where you actually have to fix things when they break.
+
+That turned into a mindset: don’t just fix it — build it better.
+
+Now I’m working across cloud, DevOps, and development, creating tools and systems that remove friction and make things run smoother.
+
+This GitHub is a mix of experiments, real-world solutions, and ideas I’m pushing forward. If you’re into building smarter systems, we’ll get along.
 
 ---
 
 ## What I'm currently building
 
 - **Azure Terraform labs** — provisioning VNets, VMs, Entra ID groups, and Conditional Access policies as code using the AzureRM and AzureAD providers
-- Working toward **AZ-400 (Azure DevOps Engineer Expert)** — layering CI/CD and IaC depth onto my existing AZ-104
 - Migrating existing Bash automation to **Ansible playbooks** for fleet-scale deployment
+- Linux & Infrastructure Automation
+Secure user provisioning, server hardening, and repeatable system setups
+- AI + IT Operations (AIOps)
+Smart assistants, agent-based systems, and automated troubleshooting workflows
+- CI/CD & DevOps Pipelines
+Real-world pipelines using GitHub Actions, Terraform, and cloud services
+- Full-Stack System Tools
+Internal dashboards, APIs, and utilities that solve operational pain points
 
 ---
 
 ## Technologies I work with
+Cloud & Identity
 
-**Cloud & Identity**
 Azure (Entra ID, Intune, Conditional Access, Azure Runbooks) · AWS · Microsoft 365 (Exchange Online, SharePoint, Teams)
 
-**Infrastructure & Systems**
-Linux (Ubuntu, RHEL) · Windows Server · Active Directory · VMware · Structured cabling · Data center ops
+Infrastructure & Systems
 
-**Automation & Scripting**
+Linux (Ubuntu, RHEL) · Windows Server · Active Directory · VMware · Data center operations · Structured cabling
+
+Operating Systems
+
+Windows 10/11 · macOS · Linux · ChromeOS · iOS
+
+Automation & Infrastructure as Code
+
 PowerShell · Python · Bash · Ansible · Terraform (HCL)
 
-**Endpoint & MDM**
-Intune · Jamf · SCCM · NinjaOne · ChromeOS · macOS · iOS
+Software Development
 
-**Networking**
-VPN · VLAN · DNS · DHCP · TCP/IP · Palo Alto Firewall · Cisco · Juniper · Ubiquiti
+Python · REST APIs · CLI tools · Backend scripting · JSON/HTTP integrations · Git
 
-**CI/CD & Monitoring**
+AI & LLMs
+
+LLM integrations (OpenAI, Anthropic) · Prompt design · AI agents & workflow automation · API orchestration · Retrieval workflows (RAG basics)
+
+Endpoint Management
+
+Intune · Jamf · SCCM · NinjaOne
+
+Networking
+
+TCP/IP · DNS · DHCP · VLANs · VPNs · Palo Alto Firewalls · Cisco · Juniper · Ubiquiti
+
+CI/CD & Monitoring
+
 GitHub Actions · GitLab CI/CD · Prometheus · Grafana · Zabbix
 
-**Identity & Security**
+Identity & Security
+
 IAM · Entra ID (Azure AD) · RBAC · MFA · Conditional Access · CIS Benchmarks
 
 ---
