@@ -1,90 +1,55 @@
-# Hey,
-
-I come from the side of IT where you actually have to fix things when they break.
-
-That turned into a mindset: don’t just fix it — build it better.
-
-Now I’m working across cloud, DevOps, and development, creating tools and systems that remove friction and make things run smoother.
-
-This GitHub is a mix of experiments, real-world solutions, and ideas I’m pushing forward. If you’re into building smarter systems, we’ll get along.
-
----
-
-## What I'm currently building
-
-- **Azure Terraform labs** — provisioning VNets, VMs, Entra ID groups, and Conditional Access policies as code using the AzureRM and AzureAD providers
-- Migrating existing Bash automation to **Ansible playbooks** for fleet-scale deployment
-- Linux & Infrastructure Automation
-Secure user provisioning, server hardening, and repeatable system setups
-- AI + IT Operations (AIOps)
-Smart assistants, agent-based systems, and automated troubleshooting workflows
-- CI/CD & DevOps Pipelines
-Real-world pipelines using GitHub Actions, Terraform, and cloud services
-- Full-Stack System Tools
-Internal dashboards, APIs, and utilities that solve operational pain points
-
----
-
-## Technologies I work with
-Cloud & Identity
-
-Azure (Entra ID, Intune, Conditional Access, Azure Runbooks) · AWS · Microsoft 365 (Exchange Online, SharePoint, Teams)
-
-Infrastructure & Systems
-
-Linux (Ubuntu, RHEL) · Windows Server · Active Directory · VMware · Data center operations · Structured cabling
-
-Operating Systems
-
-Windows 10/11 · macOS · Linux · ChromeOS · iOS
-
-Automation & Infrastructure as Code
-
-PowerShell · Python · Bash · Ansible · Terraform (HCL)
-
-Software Development
-
-Python · REST APIs · CLI tools · Backend scripting · JSON/HTTP integrations · Git
-
-AI & LLMs
-
-LLM integrations (OpenAI, Anthropic) · Prompt design · AI agents & workflow automation · API orchestration · Retrieval workflows (RAG basics)
-
-Endpoint Management
-
-Intune · Jamf · SCCM · NinjaOne
-
-Networking
-
-TCP/IP · DNS · DHCP · VLANs · VPNs · Palo Alto Firewalls · Cisco · Juniper · Ubiquiti
-
-CI/CD & Monitoring
-
-GitHub Actions · GitLab CI/CD · Prometheus · Grafana · Zabbix
-
-Identity & Security
-
-IAM · Entra ID (Azure AD) · RBAC · MFA · Conditional Access · CIS Benchmarks
-
----
-
-## Projects
-
-### [enterprise-secure-network-lab](https://github.com/AYoG65/enterprise-secure-network-lab)
-Enterprise Linux network built on VirtualBox — bastion host, internal web server, and monitoring node running Prometheus + Grafana. SSH hardened, firewall-restricted, fully automated with Bash scripts. Designed to mirror real production infrastructure responsibility.
-
-### [IronBaseLine](https://github.com/AYoG65/IronBaseLine)
-Cross-platform CIS Level 1 hardening framework for Windows 10/11, Windows Server 2019/2022, Ubuntu, and RHEL. Supports audit, harden, and rollback modes. Safe for production environments.
-
-### [PipelineOps](https://github.com/AYoG65/PipelineOps)
-Production-style CI/CD pipeline using GitHub Actions and Terraform. Covers environment promotion across dev, staging, and prod — with plan-on-PR, apply-on-merge, rollback support, and no long-lived credentials in code.
-
-### [SIDSentinel](https://github.com/AYoG65/SIDSentinel)
-PowerShell toolkit for detecting duplicate SIDs across Windows user accounts — built for pre-migration audits, device refresh cycles, and compliance reporting. Exports timestamped CSV reports. Read-only and safe to run in production.
-
-### [Secure-Linux-User-Management-Automation](https://github.com/AYoG65/Secure-Linux-User-Management-Automation)
-Idempotent Bash script that provisions a hardened non-root admin user on Linux — SSH key-only auth, no root login, least-privilege sudo. The baseline for any production cloud VM.
-
----
-
-*Currently open to Senior Cloud Engineer, Senior Systems Engineer, and Cloud Infrastructure roles
+<div align="center">
+Hey, I'm G 👋
+Systems Engineer & IT OPS · AI & Automation Engineer · Multi-Cloud Practitioner
+Engineering the systems behind the cloud — then making them smarter with AI
+[!LinkedIn](https://www.linkedin.com/in/guerod-m-08a053109/)
+[!GitHub](https://github.com/AYoG65)
+[!Location](#)
+</div>
+***🧠 About Me
+I'm a Systems Engineer & IT Operations specialist with 10+ years supporting, automating, and hardening enterprise environments across on-prem, hybrid, and multi-cloud platforms.
+I'm not a cloud architect by title — I'm the engineer who keeps enterprise systems running, secured, and optimized across whatever platform they live on. That means Linux and Windows administration, VMware, network ops, endpoint management, and the DevOps pipelines that tie it all together.
+Increasingly, that also means AI. I build intelligent automation workflows, integrate LLMs into operational tooling, and use AI to make IT systems faster and more self-sufficient.
+Two core disciplines:
+🖥️ Systems Engineering & IT OPS — Enterprise infrastructure, Linux/Windows admin, VMware, hybrid environments, network and security operations
+🤖 AI & Automation Engineering — LLM integration, intelligent workflows, vibe coding, AI-powered DevOps, MLOps
+***🔧 What I Work On
+Systems & IT OPS    ██████████████████████  Linux · Windows Server · VMware · Hybrid · Networks
+AI & Automation     ████████████████░░░░░░  LLMs · AI Workflows · Vibe Coding · Intelligent Ops
+Cloud Platforms     █████████████████░░░░░  Azure · AWS · GCP · IBM Cloud · Multi-Cloud
+Security            ██████████████░░░░░░░░  Zero Trust · IAM · CISSP · Compliance · SIEM
+DevOps & IaC        █████████████░░░░░░░░░  Terraform · Ansible · CI/CD · GitHub Actions
+***🛠️ Tech Stack
+Cloud Platforms
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)Systems & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)DevOps & Automation
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)Scripting & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)AI & ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=flat-square&logo=ibmwatson&logoColor=white)***📌 Featured Projects
+Project	Description	Stack
+SIDSentinel	SID monitoring and alerting for Windows enterprise environments	PowerShell
+IronBaseLine	Automated security baseline enforcement across Linux and Windows	Shell
+PipelineOps	Production-grade CI/CD pipeline infrastructure	Terraform / HCL
+enterprise-secure-network-lab	Enterprise network security lab environment	Shell
+Secure-Linux-User-Management	Automated secure user provisioning for Linux	Shell
+***📜 Certifications
+<div align="center">
+Issuer	Certifications
+ISC²	CISSP
+Microsoft / Azure	Solutions Architect Expert · Admin · Cloud Security · Data Mgmt · Developer · O365 · Power BI
+AWS	Solutions Architect · Machine Learning Specialty
+Google	Associate Cloud Engineer · AI · CyberSecurity · Project Mgmt · UX Design
+IBM	AI Engineer · DevOps & Software · Fullstack Developer
+CompTIA	A+ · Network+ · Server+ · Linux+ · Cloud+
+</div>
+***🎓 Education
+B.S. Cloud Computing — Western Governors University (WGU) · 2024 – Present
+***📫 Connect
+💼 LinkedIn
+🌐 Portfolio — coming soon
+***<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AYoG65&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <sub>Systems Engineer & IT OPS · AI Engineering · Multi-Cloud · Los Angeles, CA</sub>
+</div>
